@@ -1,7 +1,7 @@
 ## 👋 Hi there I'm **Samarjeet Dubey**!  - Engineering Manager | Mobile App  & backend Developer | Technical Architect | Mentor
 🚀 Welcome to my GitHub profile! I’m an Engineering Manager with a deep passion for mobile app development, innovation, and mentoring high-performing teams. With a robust technical background in iOS and Android development, I bring over 15 Years of experience leading engineering teams, crafting scalable mobile solutions, and delivering top-tier applications that drive impact.
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 🔭 I’m currently leading the mobile engineering team at Malwarbytes where we focus on building core protection, detection and remediation with AI , ML & NLP Technology that ship as part of Malwarebytes Cybersecurity products.
 
