@@ -29,6 +29,7 @@
 
 #### 📱 Mobile Development
 - iOS: Swift, Objective-C, UIKit, SwiftUI
+- AI :Generative AI & Agentic AI With Python,Numpy,Tensorflow,scikit-learn
 - Android: Kotlin, Java, Android SDK, Jetpack Compose
 - Cross-Platform: Flutter, React Native
 - RESTful APIs, GraphQL, Firebase, Push Notifications
