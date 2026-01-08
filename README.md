@@ -1,6 +1,6 @@
 
 ## 👋 Hi there, I'm **Samarjeet Dubey**!
-- ** AI Architect & Engineering Leader |** Generative AI, Agentic AI, LLMs, RAG, MLOps ** | **Machine Learning** |** Mobile App ** | **Mentor** |Scaled AI Products to 40M+ Users
+--**AI Architect & Engineering Leader **|** Generative AI, Agentic AI, LLMs, RAG, MLOps ** | **Machine Learning** |** Mobile App ** | **Mentor** |**Scaled AI Products to 40M+ Users**
 
 🚀 Welcome to my GitHub profile! I’m an Engineering Manager passionate about mobile app development, innovation, and mentoring high-performing teams. With a robust technical background in AI, ML, and NLP technologies, I lead mobile engineering efforts at Malwarebytes.
 
